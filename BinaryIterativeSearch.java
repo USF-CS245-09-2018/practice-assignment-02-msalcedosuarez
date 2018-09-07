@@ -32,22 +32,3 @@ public class BinaryIterativeSearch implements Practice2Search{
 	}
 
 }
-
-
-	// int lower = 0;
-	// 	int upper = a.length - 1;
-	// 	int mid = 0;
-
-
-	// 	while(lower <= upper){
-	// 		mid = (lower + last) / 2; 
-
-	// 		if(a[mid] == target){
-	// 			//do something
-	// 		}
-	// 		else{
-	// 			//adjust upper//lower
-	// 		}
-	// 	}
-
-	// 	return -1;
